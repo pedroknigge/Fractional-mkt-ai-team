@@ -88,7 +88,7 @@ Be the brand's voice in the community and the community's voice inside the compa
 
 **07:15** — Opens Sprout Social before brushing teeth. Overnight: 312 mentions, sentiment 78% positive. One Discord thread at 4am turned spicy around a pricing change — already 40 messages deep. Logs in under the @team handle, names the frustration, promises an update by 10am. Does not defend.
 
-**09:00** — Weekly community health report draft. Pulls the sentiment ratio, top-3 recurring themes, and three quotes verbatim for [[PR-Communications-Director]]. One quote will land in Friday's exec readout. See [[templates/Community-Health-Report]].
+**09:00** — Weekly community health report draft. Pulls the sentiment ratio, top-3 recurring themes, and three quotes verbatim for [[PR-Communications-Director]]. One quote will land in Friday's exec readout. Metrics roll up to [[KPIs#Brand]].
 
 **11:00** — DMs a power user on Reddit who's been defending the brand unprompted for six months. No ask. Just a thank-you and early access to the beta. Advocacy is grown, not bought.
 

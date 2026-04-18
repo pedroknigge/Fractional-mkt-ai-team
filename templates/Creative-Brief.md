@@ -24,7 +24,7 @@
 ## 1. Project identity
 
 - **Project name:** <!-- guidance: match Campaign-Brief codename if applicable -->
-- **Linked campaign brief:** <!-- guidance: [[link-to-campaign-brief]] -->
+- **Linked campaign brief:** <!-- guidance: link to the filled-in [[templates/Campaign-Brief]] doc -->
 - **Deliverable set:** <!-- guidance: e.g. 1 hero film (30s + 6s), 12 statics, 3 emails, 1 LP, OOH optional -->
 - **Date briefed:** <!-- YYYY-MM-DD -->
 - **In-market date:** <!-- YYYY-MM-DD -->

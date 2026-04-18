@@ -90,7 +90,7 @@ Shape the company's public narrative, manage media relationships, and protect th
 
 **06:45** — Opens Brandwatch before email. Overnight sentiment in EMEA ticked down 4 points around a competitor's leaked memo that name-drops us. Drafts a two-line internal note to [[VP-Brand-Strategy]] — not a crisis, but a watch item.
 
-**08:30** — Reviews the embargoed draft of Friday's product announcement with [[Product-Marketing-Manager]]. Kills the adjectives. Rewrites the lede around the one data point a journalist will actually quote. See [[templates/Press-Release]].
+**08:30** — Reviews the embargoed draft of Friday's product announcement with [[Product-Marketing-Manager]]. Kills the adjectives. Rewrites the lede around the one data point a journalist will actually quote. Ties into [[Workflows#Product Launch GTM]].
 
 **10:00** — Pre-briefs a Tier 1 reporter at Bloomberg over coffee. No pitch — just context on a trend story she's chasing. The best placements are planted six weeks before the headline.
 
