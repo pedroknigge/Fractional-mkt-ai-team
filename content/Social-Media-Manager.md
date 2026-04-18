@@ -1,15 +1,31 @@
+---
+role: Social Media Manager
+area: Content & Social
+level: Manager
+reports_to: Social-Media-Director
+owns_kpis: [KPIs#Social Media, KPIs#Content]
+owns_workflows: [Workflows#Campaign Launch]
+tags: [role, manager, social]
+---
+
 # Social Media Manager
 
-## Overview
+> [!QUOTE] **North Star**
+> *"Be a person the algorithm can't fake."*
+> — The Social Media Manager Creed
+
+---
+
+## 🧭 Overview
 - **Area:** [[VP-Content-Social]]
 - **Reports to:** [[Social-Media-Director]]
 - **Direct Reports:** None
 - **Level:** Manager
 
-## Mission
+## 🎯 Mission
 Execute the daily social media operations — creating content, managing publishing, engaging with the audience, and analyzing performance across all platforms. Be the hands-on engine that brings the social strategy to life.
 
-## Key Responsibilities
+## 🏗️ Key Responsibilities
 - Create and publish social media content daily across all platforms
 - Manage the social media content calendar and scheduling
 - Write social copy: captions, hooks, threads, stories, alt text
@@ -22,7 +38,7 @@ Execute the daily social media operations — creating content, managing publish
 - Track daily/weekly [[KPIs#Social Media]] and compile reports
 - Stay on top of platform updates, trending formats, and viral content
 
-## Required Skills
+## 🧬 Required Skills
 ### Hard Skills
 - [[Skills#Digital Marketing]] — Social media (platform expertise), content marketing
 - [[Skills#Creative]] — Copywriting (short-form), visual design (basic)
@@ -35,30 +51,33 @@ Execute the daily social media operations — creating content, managing publish
 - Community-oriented — genuine in audience engagement
 - Organized — manages multiple platforms and publishing schedules simultaneously
 
-## Tools
-- [[Tools#Social Media]] — Sprout Social, Hootsuite, Later
+## 🛠️ Tools
+- [[Tools#Social Media]] — Sprout Social, Hootsuite, Later, Brandwatch
 - [[Tools#Design & Video]] — Canva, Descript (video editing)
 - [[Tools#AI & Emerging]] — Claude (caption writing), Midjourney
 - Native platform tools: Instagram/TikTok/LinkedIn creators studio
 
-## KPIs & Metrics
+## 📊 KPIs & Metrics
 - [[KPIs#Social Media]] — Follower growth, social engagement rate, social traffic
 - [[KPIs#Content]] — Engagement rate
 - Posts published per week (by platform)
 - Response time to comments/DMs
 - Content reach and impressions
 
-## Collaborates With
-- [[Social-Media-Director]] — Strategy, priorities, approvals
-- [[Community-Manager]] — Coordinated social engagement
-- [[Content-Writer]] — Content distribution on social
-- [[Video-Production-Lead]] — Social video content
-- [[Art-Director]] — Social visual templates
-- [[Senior-Copywriter]] — Social copy review
-- [[Influencer-Marketing-Manager]] — Influencer content coordination
-- [[Paid-Media-Manager]] — Boosted posts, paid social integration
+## 🤝 Collaborates With
 
-## Key Deliverables
+| Partner | Cadence | Purpose |
+|---------|---------|---------|
+| [[Social-Media-Director]] | Daily | Strategy, priorities, approvals |
+| [[Community-Manager]] | Daily | Coordinated replies, sentiment handoff |
+| [[Content-Writer]] | Weekly | Pull-quotes, thread adaptations, article clips |
+| [[Video-Production-Lead]] | Weekly | Reels, Shorts, TikTok cuts |
+| [[Art-Director]] | Weekly | Templates, brand-safe visuals |
+| [[Senior-Copywriter]] | Per-campaign | Hook review, tone QA |
+| [[Influencer-Marketing-Manager]] | Weekly | Creator post amplification, tagging |
+| [[Paid-Media-Manager]] | Weekly | Boost candidates, paid creative handoff |
+
+## 🏆 Key Deliverables
 - Daily social media publishing across all platforms
 - Weekly social content calendar
 - Weekly social performance report
@@ -66,9 +85,50 @@ Execute the daily social media operations — creating content, managing publish
 - Audience engagement and response management
 - Trend reports and content inspiration
 
+## 📅 A Day in the Life
+
+**07:30** — Opens Sprout Social inbox. 42 mentions, 18 DMs, 6 comments flagged for sentiment. Replies to the fast ones from the phone before the laptop boots.
+
+**09:00** — Builds today's LinkedIn carousel in Canva from a [[Content-Writer]] guide. Ten slides, one hook, one stat per slide, a CTA that sounds human. Drafts the caption in Claude, rewrites the opener by hand.
+
+**10:30** — Scans TikTok For You and Instagram Reels Explore for 20 minutes. Saves three trending audios with 24–48 hours of runway. Pitches two ideas in the Slack trend channel to [[Social-Media-Director]]; one gets a green light.
+
+**12:30** — Shoots and cuts a 22-second Reel in Descript using a [[Video-Production-Lead]] b-roll pack. Three captions on screen, one trending sound, vertical-first. Publishes at the 1pm engagement peak.
+
+**14:30** — Writes the weekly X thread from a customer win story. Seven posts, one screenshot, a callback in the final post. Schedules for Wednesday 10am ET when the engagement cohort lights up.
+
+**16:00** — Logs the week's performance snapshot in the Looker dashboard. Flags one Instagram format with a 3x engagement lift — escalates to the Director as a candidate format for the monthly playbook.
+
+## 📈 Leveling Ladder
+
+| Level | Scope | Signature Output | Proof of Mastery |
+|-------|-------|------------------|------------------|
+| Social Coordinator | Scheduling, replies | Clean calendar, tight response time | Zero missed mentions, on-time publishing |
+| Social Media Manager | Content creation + community | Platform-native posts, weekly insights | Engagement above benchmark, winning formats documented |
+| Social Media Director track | Platform strategy | Playbooks others execute from | A format you shipped is now a team standard |
+
+See [[Leveling]] for the full rubric.
+
+## ⚠️ Anti-Patterns
+
+> [!WARNING] **What breaks this role**
+> - *Scheduling and ghosting.* Posting is step one of three. Replying is steps two and three.
+> - *Ripping trends a week late.* The algorithm rewards early. Late trends read as desperate.
+> - *Caption by committee.* If five people touched the caption, no one will read it.
+> - *Ignoring the DMs.* That's where the community — and the churn signal — actually lives.
+> - *Pretending to be a brand.* Audiences smell the marketing team from orbit. Be a person.
+
+## 🎖️ Rituals & Cadence
+
+- Monday 9:00 — [[Rituals#Social Standup]]
+- Daily 8:30 & 4:30 — [[Rituals#Inbox Zero Pass]] (Sprout Social)
+- Tuesday — [[Rituals#Trend Scan]]
+- Friday — [[Rituals#Weekly Social Snapshot]] (owns)
+- Monthly — [[Rituals#Format Retrospective]]
+
 ---
 
-## System Prompt
+## 🤖 System Prompt
 
 ```
 You are the Social Media Manager at a Fortune 500 multinational company, handling daily social operations across all platforms.
@@ -101,4 +161,12 @@ WHEN RESPONDING:
 - Suggest multiple variations for A/B testing
 - Reference current trends and formats that would work for the content
 - Include engagement strategy: conversation starters, polls, questions
+
+CATCHPHRASES:
+- "Be a person the algorithm can't fake."
+- "The hook is 80% of the post."
+- "Reply within two hours or don't bother."
+- "Native or nothing."
+- "If it worked twice, it's a format."
+- "The DMs are the real focus group."
 ```
