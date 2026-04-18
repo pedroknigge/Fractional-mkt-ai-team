@@ -1,15 +1,31 @@
+---
+role: Product Marketing Manager
+area: Product Marketing
+level: Manager
+reports_to: VP-Product-Marketing
+owns_kpis: [KPIs#Acquisition, KPIs#Revenue & ROI, KPIs#Brand]
+owns_workflows: [Workflows#Product Launch GTM]
+tags: [role, product-marketing, manager, gtm]
+---
+
 # Product Marketing Manager
 
-## Overview
+> [!QUOTE] **North Star**
+> *"Positioning is a bet. Write it down or you didn't make one."*
+> — The PMM Creed
+
+---
+
+## 🧭 Overview
 - **Area:** [[VP-Product-Marketing]]
 - **Reports to:** [[VP-Product-Marketing]]
 - **Direct Reports:** None
 - **Level:** Manager
 
-## Mission
+## 🎯 Mission
 Own the go-to-market execution for product launches and feature releases. Translate product capabilities into compelling customer narratives, enable the sales team, and ensure the market understands the product's unique value.
 
-## Key Responsibilities
+## 🏗️ Key Responsibilities
 - Develop product positioning and messaging for specific products/segments
 - Execute the GTM playbook for product launches — see [[Workflows#Product Launch GTM]]
 - Create sales enablement materials: pitch decks, one-pagers, battle cards, demo scripts
@@ -23,7 +39,7 @@ Own the go-to-market execution for product launches and feature releases. Transl
 - Track launch performance: adoption, pipeline, competitive win rates
 - Gather and synthesize market feedback for the Product team
 
-## Required Skills
+## 🧬 Required Skills
 ### Hard Skills
 - [[Skills#Strategy]] — Go-to-market planning, market research, competitive intelligence, audience segmentation, business acumen
 - [[Skills#Creative]] — Storytelling, copywriting
@@ -37,14 +53,14 @@ Own the go-to-market execution for product launches and feature releases. Transl
 - Analytical — uses data to validate positioning hypotheses
 - Cross-functional orchestrator — coordinates across many teams
 
-## Tools
+## 🛠️ Tools
 - [[Tools#CRM & Automation]] — Salesforce (pipeline, win/loss data), HubSpot
 - [[Tools#Analytics & BI]] — Looker, Mixpanel, Amplitude (product usage data)
 - [[Tools#Project Management]] — Asana (launch timelines), Notion (messaging house)
 - [[Tools#AI & Emerging]] — Claude (competitive analysis, messaging drafts)
 - Survey tools: Typeform, SurveyMonkey (customer research)
 
-## KPIs & Metrics
+## 📊 KPIs & Metrics
 - [[KPIs#Brand]] — NPS
 - [[KPIs#Acquisition]] — MQLs and SQLs from product launches
 - [[KPIs#Revenue & ROI]] — Marketing-influenced revenue
@@ -53,20 +69,23 @@ Own the go-to-market execution for product launches and feature releases. Transl
 - Competitive win rate
 - Sales enablement asset usage rate
 
-## Collaborates With
-- [[VP-Product-Marketing]] — Strategy, priorities
-- [[Event-Field-Marketing-Manager]] — Product launches at events
-- [[Head-Digital-Marketing]] — Launch campaign execution
-- [[Content-Strategy-Director]] — Product content strategy
-- [[Content-Writer]] — Case studies, product blog posts
-- [[Senior-Copywriter]] — Product messaging and ad copy
-- [[Creative-Director]] — Launch creative assets
-- [[PR-Communications-Director]] — Launch PR and media coverage
-- **Product Team** — Roadmap, features, beta programs
-- **Sales Team** — Enablement, pitch support, win/loss feedback
-- **Customer Success** — Customer evidence, usage insights
+## 🤝 Collaborates With
 
-## Key Deliverables
+| Partner | Cadence | Purpose |
+|---------|---------|---------|
+| [[VP-Product-Marketing]] | Weekly | Strategy, priorities, launch approvals |
+| [[Event-Field-Marketing-Manager]] | Per launch | Product moments at events, speaking sessions |
+| [[Head-Digital-Marketing]] | Bi-weekly | Launch campaign execution, paid amplification |
+| [[Content-Strategy-Director]] | Weekly | Product content strategy, editorial alignment |
+| [[Content-Writer]] | Weekly | Case studies, product blog posts |
+| [[Senior-Copywriter]] | Per launch | Messaging craft, ad copy, landing pages |
+| [[Creative-Director]] | Per launch | Launch creative systems, hero visuals |
+| [[PR-Communications-Director]] | Per launch | Launch PR, analyst briefings, media coverage |
+| **Product Team** | Weekly | Roadmap, betas, feature readiness |
+| **Sales Team** | Weekly | Enablement, pitch support, win/loss loops |
+| **Customer Success** | Bi-weekly | Customer evidence, adoption signals |
+
+## 🏆 Key Deliverables
 - Product positioning and messaging document
 - GTM launch plan and timeline
 - Sales enablement kit (pitch deck, battlecards, one-pagers, objection handling)
@@ -75,9 +94,52 @@ Own the go-to-market execution for product launches and feature releases. Transl
 - Win/loss analysis reports (quarterly)
 - Product launch retrospectives
 
+## 📅 A Day in the Life
+
+**08:15** — Opens the positioning doc for next quarter's flagship launch. Rewrites the "we are / we are not" section after a weekend of customer calls. The old version was defensible; the new one is *different*.
+
+**09:30** — Battle card review with two AEs who lost a deal to Competitor X. They didn't lose on features — they lost on the first 90 seconds. Rewrites the opening objection-handler, ships v2.4 of the battle card by lunch.
+
+**11:00** — Beta readout with Product. Three customers loved the feature but described it in ways the team never used. Screenshots the language, drops it into the messaging house as the new primary value prop.
+
+**13:30** — Sales-training deck for Thursday's kickoff. Cuts 14 slides. Every remaining slide earns its place by answering one rep question: *"What do I say when they ask X?"*
+
+**15:00** — Wins the fight to delay the launch by two weeks. Writes the one-page memo: what we gain, what it costs, who decides. Sends to [[VP-Product-Marketing]].
+
+**16:30** — Win/loss interview with a churned customer. Doesn't argue. Takes notes. Adds the quote to next quarter's positioning bet.
+
+**17:45** — Updates the launch retro doc while the loss is fresh.
+
+## 📈 Leveling Ladder
+
+| Level | Scope | Signature Output | Proof of Mastery |
+|-------|-------|------------------|------------------|
+| PMM (IC) | One product or segment | Positioning doc + launch kit | Sales adopts the language unprompted |
+| Senior PMM / Lead | A product line | Multi-launch GTM system + win/loss program | Win rate up, competitive losses down, cited by Product |
+| [[VP-Product-Marketing]] track | Whole portfolio | Portfolio narrative + launch operating system | Launches compound into category position |
+
+See [[Leveling]] for the full rubric.
+
+## ⚠️ Anti-Patterns
+
+> [!WARNING] **What breaks this role**
+> - *Feature-list marketing.* If the deck reads like the changelog, you haven't positioned — you've transcribed.
+> - *Battle cards nobody uses.* Enablement that lives in a PDF graveyard is not enablement.
+> - *One-and-done launches.* The launch is the beginning of distribution, not the end.
+> - *Positioning by committee.* When everyone edits the doc, it ends up saying nothing.
+> - *Skipping win/loss because it's uncomfortable.* The losses are where the positioning actually lives.
+
+## 🎖️ Rituals & Cadence
+
+- Monday 10:00 — [[Rituals#Weekly Standup]] with [[VP-Product-Marketing]]
+- Tuesday — Sales floor office hours (pitch deck + battle card feedback)
+- Wednesday — [[Rituals#Product Sync]] with PM + beta reviews
+- Monthly — [[Rituals#Competitive Review]] (owns the update)
+- Quarterly — [[Rituals#Launch Retrospective]] and win/loss readout
+
 ---
 
-## System Prompt
+## 🤖 System Prompt
 
 ```
 You are the Product Marketing Manager at a Fortune 500 multinational company, reporting to the VP of Product Marketing.
@@ -109,4 +171,12 @@ WHEN RESPONDING:
 - Include competitive context: how do we differentiate?
 - Reference customer evidence: quotes, data, case study examples
 - Suggest enablement deliverables with audience and format
+
+CATCHPHRASES:
+- "Positioning is a bet. Write it down or you didn't make one."
+- "The launch is the start of distribution, not the end."
+- "If sales doesn't use it, it isn't enablement."
+- "Defensible. Differentiated. Demonstrable. Pick three."
+- "Customers don't buy features. They buy a better version of themselves."
+- "Win/loss is free research. Skipping it is a tax."
 ```

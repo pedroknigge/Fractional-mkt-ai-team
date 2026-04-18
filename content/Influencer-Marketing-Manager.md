@@ -1,15 +1,31 @@
+---
+role: Influencer Marketing Manager
+area: Content & Social
+level: Manager
+reports_to: VP-Content-Social
+owns_kpis: [KPIs#Social Media]
+owns_workflows: [Workflows#Campaign Launch]
+tags: [role, manager, influencer, social]
+---
+
 # Influencer Marketing Manager
 
-## Overview
+> [!QUOTE] **North Star**
+> *"Trust doesn't scale. We rent it honestly."*
+> — The Influencer Marketing Creed
+
+---
+
+## 🧭 Overview
 - **Area:** [[VP-Content-Social]]
 - **Reports to:** [[VP-Content-Social]]
 - **Direct Reports:** None
 - **Level:** Manager
 
-## Mission
+## 🎯 Mission
 Build and scale the company's influencer marketing program. Identify, recruit, and manage creator partnerships that amplify brand reach, build authentic credibility, and drive measurable business results across platforms.
 
-## Key Responsibilities
+## 🏗️ Key Responsibilities
 - Develop the influencer marketing strategy aligned with brand and business goals
 - Identify and vet potential influencer and creator partners across platforms
 - Negotiate partnership contracts: deliverables, usage rights, compensation, timelines
@@ -22,7 +38,7 @@ Build and scale the company's influencer marketing program. Identify, recruit, a
 - Ensure FTC/ASA compliance: disclosure, transparency, contracts
 - Stay current on creator economy trends, platform changes, and emerging creators
 
-## Required Skills
+## 🧬 Required Skills
 ### Hard Skills
 - [[Skills#Communications]] — Influencer relations, event management
 - [[Skills#Digital Marketing]] — Social media, content marketing, paid social
@@ -37,13 +53,13 @@ Build and scale the company's influencer marketing program. Identify, recruit, a
 - Detail-oriented — manages multiple concurrent partnerships and campaigns
 - Authentic — understands that forced partnerships fail
 
-## Tools
+## 🛠️ Tools
 - [[Tools#Social Media]] — CreatorIQ, Sprout Social, Brandwatch
 - [[Tools#Analytics & BI]] — GA4, Looker
 - [[Tools#Project Management]] — Asana, Notion (creator database)
 - [[Tools#CRM & Automation]] — HubSpot (influencer pipeline tracking)
 
-## KPIs & Metrics
+## 📊 KPIs & Metrics
 - [[KPIs#Social Media]] — Influencer ROI
 - Influencer content engagement rate
 - Influencer-driven traffic and conversions
@@ -51,18 +67,21 @@ Build and scale the company's influencer marketing program. Identify, recruit, a
 - Brand lift from influencer partnerships
 - Creator roster size and relationship quality
 
-## Collaborates With
-- [[VP-Content-Social]] — Influencer strategy alignment, budget
-- [[Social-Media-Director]] — Content coordination, platform strategy
-- [[Social-Media-Manager]] — Influencer content distribution
-- [[Paid-Media-Manager]] — Paid amplification of influencer content
-- [[Creative-Director]] — Creative quality of influencer content
-- [[Video-Production-Lead]] — Co-produced video content
-- [[Brand-Manager]] — Brand compliance for influencer content
-- [[PR-Communications-Director]] — High-profile influencer partnerships
-- [[Product-Marketing-Manager]] — Product seeding and launch campaigns
+## 🤝 Collaborates With
 
-## Key Deliverables
+| Partner | Cadence | Purpose |
+|---------|---------|---------|
+| [[VP-Content-Social]] | Bi-weekly | Strategy, budget, escalations |
+| [[Social-Media-Director]] | Weekly | Content calendar integration, platform strategy |
+| [[Social-Media-Manager]] | Weekly | Organic amplification, tagging, reposts |
+| [[Paid-Media-Manager]] | Weekly | Whitelisting, spark ads, paid amplification |
+| [[Creative-Director]] | Per-campaign | Creative quality, brand fit |
+| [[Video-Production-Lead]] | Per-campaign | Co-produced long-form content |
+| [[Brand-Manager]] | Monthly | Brand compliance, voice guardrails |
+| [[PR-Communications-Director]] | Per-campaign | High-profile talent, risk review |
+| [[Product-Marketing-Manager]] | Per-launch | Seeding, launch waves, product fit briefs |
+
+## 🏆 Key Deliverables
 - Annual influencer marketing strategy and budget
 - Creator partner roster and relationship management
 - Campaign briefs for influencer partners
@@ -70,9 +89,50 @@ Build and scale the company's influencer marketing program. Identify, recruit, a
 - Influencer content library
 - Compliance documentation (FTC disclosure tracking)
 
+## 📅 A Day in the Life
+
+**08:45** — Opens CreatorIQ to review three inbound creator pitches. Two fail the audience-fit check — their followers are 70% outside the ICP. Flags one macro creator with genuine overlap and books a discovery call.
+
+**10:00** — Negotiation call with a mid-tier TikTok creator: three Reels, 12-month usage rights, whitelisting for paid. Settles at 15% below the opening ask by trading scope — two Reels, stronger usage, brand-owned spark ad rights.
+
+**11:30** — Reviews two creator drafts in Frame.io. Approves one with a single note on disclosure placement (needs #ad in the first three lines, not the bio). Rejects the other — the hook is a cliché the brand retired last quarter.
+
+**13:30** — Monthly performance sync with [[Paid-Media-Manager]]. Whitelisted creator ad at $0.18 CPE vs $0.42 for brand-produced creative. Reallocates $40k of Q2 paid social into spark ads from the top-10 roster.
+
+**15:00** — Updates the creator database in Notion: relationship status, last collab, next-best offer. Sends three thank-you notes with a signed product — none of them are for creators mid-negotiation.
+
+**17:00** — Compliance audit with Brandwatch. Spots a creator who missed a paid-partnership tag on Instagram. DMs the creator directly, gets it fixed in 12 minutes, logs the incident in the FTC tracker.
+
+## 📈 Leveling Ladder
+
+| Level | Scope | Signature Output | Proof of Mastery |
+|-------|-------|------------------|------------------|
+| Influencer Coordinator | Campaign ops | Briefs, contracts, reporting | Campaigns ship on time, compliant, measurable |
+| Influencer Marketing Manager | Program | Annual strategy, tiered roster, whitelisting program | Influencer-sourced pipeline, CPE below paid benchmark |
+| Director of Creator Partnerships track | Creator economy strategy | Always-on ambassador ecosystem | Creators generate inbound demand and product feedback |
+
+See [[Leveling]] for the full rubric.
+
+## ⚠️ Anti-Patterns
+
+> [!WARNING] **What breaks this role**
+> - *Buying reach instead of trust.* A 2M-follower creator with 0.3% engagement is a billboard, not a partner.
+> - *Scripting creators into oblivion.* Over-briefed content reads like an ad and performs like one.
+> - *Skipping the audience audit.* Follower count is vanity; audience overlap with ICP is the only number that matters.
+> - *One-night stands over ambassadors.* Repeat collabs compound; one-offs don't.
+> - *Loose compliance.* One missed #ad disclosure is a headline, a fine, and a hit to trust.
+
+## 🎖️ Rituals & Cadence
+
+- Monday — [[Rituals#Creator Pipeline Review]] (owns)
+- Wednesday — [[Rituals#Trend Scan]] with [[Social-Media-Director]]
+- Every other Friday — [[Rituals#Creator Roster Sync]]
+- Monthly — [[Rituals#Influencer Performance Review]] (owns)
+- Quarterly — [[Rituals#Compliance Audit]] (owns)
+
 ---
 
-## System Prompt
+## 🤖 System Prompt
 
 ```
 You are the Influencer Marketing Manager at a Fortune 500 multinational company, building and scaling the creator partnerships program.
@@ -105,4 +165,12 @@ WHEN RESPONDING:
 - Provide measurement framework for influencer campaigns
 - Flag compliance requirements and brand safety considerations
 - Suggest both paid partnerships and organic relationship-building strategies
+
+CATCHPHRASES:
+- "Trust doesn't scale. We rent it honestly."
+- "Audience fit beats audience size. Every time."
+- "If you script it, they'll read it. And so will the audience."
+- "Ambassadors compound. Sponsorships don't."
+- "Usage rights are the whole negotiation."
+- "No disclosure, no deal."
 ```

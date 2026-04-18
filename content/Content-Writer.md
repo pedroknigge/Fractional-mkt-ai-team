@@ -1,15 +1,31 @@
+---
+role: Content Writer
+area: Content & Social
+level: Specialist
+reports_to: Content-Strategy-Director
+owns_kpis: [KPIs#Content]
+owns_workflows: [Workflows#Content Pipeline]
+tags: [role, specialist, content]
+---
+
 # Content Writer
 
-## Overview
+> [!QUOTE] **North Star**
+> *"Writing is thinking made visible. Do both."*
+> — The Content Writer Creed
+
+---
+
+## 🧭 Overview
 - **Area:** [[VP-Content-Social]]
 - **Reports to:** [[Content-Strategy-Director]]
 - **Direct Reports:** None
 - **Level:** Specialist
 
-## Mission
+## 🎯 Mission
 Produce high-quality, SEO-optimized written content that educates, engages, and converts. Be the engine that turns content strategy into published assets — from blog posts and guides to case studies and newsletters.
 
-## Key Responsibilities
+## 🏗️ Key Responsibilities
 - Write blog posts, articles, guides, white papers, and ebooks based on content briefs
 - Optimize content for SEO using keyword targets from [[SEO-SEM-Specialist]] briefs
 - Research topics thoroughly using industry sources, customer insights, and internal SMEs
@@ -21,7 +37,7 @@ Produce high-quality, SEO-optimized written content that educates, engages, and 
 - Collaborate with [[Art-Director]] on visual assets for content pieces
 - Track content performance using [[KPIs#Content]] and iterate based on data
 
-## Required Skills
+## 🧬 Required Skills
 ### Hard Skills
 - [[Skills#Creative]] — Copywriting, storytelling
 - [[Skills#Digital Marketing]] — Content marketing, SEO (on-page)
@@ -34,29 +50,32 @@ Produce high-quality, SEO-optimized written content that educates, engages, and 
 - Self-motivated — manages deadlines with minimal supervision
 - Receptive to editing — treats feedback as growth, not criticism
 
-## Tools
-- [[Tools#SEO & Content]] — WordPress (CMS), Clearscope, Surfer SEO
+## 🛠️ Tools
+- [[Tools#SEO & Content]] — WordPress (CMS), Clearscope, Surfer SEO, Semrush
 - [[Tools#AI & Emerging]] — Claude (research, drafting), Jasper
 - [[Tools#Analytics & BI]] — GA4 (content performance)
 - [[Tools#Project Management]] — Notion (briefs), Asana (deadlines)
 - Google Docs (drafting and collaboration)
 
-## KPIs & Metrics
+## 📊 KPIs & Metrics
 - [[KPIs#Content]] — Time on page, engagement rate, content conversion rate
 - Articles published per month
 - SEO content score (Clearscope/Surfer target met)
 - Content update velocity (refreshed articles per month)
 
-## Collaborates With
-- [[Content-Strategy-Director]] — Content briefs, editorial calendar, quality review
-- [[SEO-SEM-Specialist]] — Keyword targets, SEO optimization
-- [[Senior-Copywriter]] — Long-form collaboration, style consistency
-- [[Art-Director]] — Visual assets for content
-- [[Email-Marketing-Manager]] — Newsletter content
-- [[Social-Media-Manager]] — Social-friendly content snippets
-- [[Product-Marketing-Manager]] — Product content, case studies
+## 🤝 Collaborates With
 
-## Key Deliverables
+| Partner | Cadence | Purpose |
+|---------|---------|---------|
+| [[Content-Strategy-Director]] | Daily | Briefs, reviews, editorial direction |
+| [[SEO-SEM-Specialist]] | Weekly | Keyword targets, on-page SEO QA |
+| [[Senior-Copywriter]] | Weekly | Voice, long-form craft, developmental edits |
+| [[Art-Director]] | Per-project | Hero images, diagrams, inline visuals |
+| [[Email-Marketing-Manager]] | Bi-weekly | Newsletter drafts, lifecycle copy |
+| [[Social-Media-Manager]] | Weekly | Pull-quotes, thread adaptations, carousel copy |
+| [[Product-Marketing-Manager]] | Per-project | Case studies, SME interviews, product proofs |
+
+## 🏆 Key Deliverables
 - Blog posts and articles (target: 8-12 per month)
 - Long-form content: guides, white papers, ebooks (2-3 per quarter)
 - Case studies and customer stories
@@ -64,9 +83,50 @@ Produce high-quality, SEO-optimized written content that educates, engages, and 
 - Content updates and refreshes
 - SEO-optimized metadata (titles, descriptions, alt text)
 
+## 📅 A Day in the Life
+
+**08:30** — Reviews today's brief in Notion: 1,800-word guide on "vendor risk scoring," Clearscope target 72. Pulls three Semrush SERP competitors and maps their H2 structures before opening a Google Doc.
+
+**09:30** — Interviews an internal SME for 25 minutes. Records in Descript, auto-transcribes, drags two quotes into the draft. Deletes the filler; keeps the specificity.
+
+**11:00** — Deep-work block. Drafts in Claude with the brief pinned as context, then rewrites the intro by hand — the model got the facts but not the voice. Hits Clearscope 74 on the first pass.
+
+**13:30** — Self-edit pass. Collapses three paragraphs into one, replaces two adjectives with a data point, and rewrites the meta description to be 154 characters with the primary keyword in the first half.
+
+**14:30** — Pushes to WordPress, sets internal links to two pillar pages, uploads the [[Art-Director]]'s hero asset with alt text, submits to [[Content-Strategy-Director]] for review.
+
+**16:00** — Refreshes last quarter's "AI policy templates" post — it slipped from #4 to #9. Adds a 2026 stat, new schema, three inbound links. Expects to reclaim the ranking in 14 days.
+
+## 📈 Leveling Ladder
+
+| Level | Scope | Signature Output | Proof of Mastery |
+|-------|-------|------------------|------------------|
+| Content Writer | Individual briefs | Publication-ready articles hitting SEO targets | Consistent cadence, Clearscope 70+, engagement above benchmark |
+| Senior Writer | Topic pillars | Flagship guides, interview-driven features | Assets ranking top 3 and cited externally |
+| Content Strategy Director track | Editorial system | Briefs others write from | Calendar owned end-to-end, measurable traffic compounding |
+
+See [[Leveling]] for the full rubric.
+
+## ⚠️ Anti-Patterns
+
+> [!WARNING] **What breaks this role**
+> - *Writing the brief instead of the piece.* Summarizing what the SEO brief already says is not a draft.
+> - *AI-generated filler.* Claude can produce 2,000 words in 30 seconds. None of them belong on your blog without surgery.
+> - *Skipping the refresh queue.* Net-new is seductive; updates compound.
+> - *Dodging the interview.* The piece without an SME quote is almost always the piece that flops.
+> - *Shipping without checking the live page.* Broken links and orphaned images are a trust tax.
+
+## 🎖️ Rituals & Cadence
+
+- Monday 9:30 — [[Rituals#Editorial Standup]]
+- Tuesday — [[Rituals#Writer Workshop]] (peer review)
+- Thursday — [[Rituals#Refresh Day]] (one legacy piece/week)
+- First Friday — [[Rituals#Content Performance Review]]
+- Quarter close — [[Rituals#Portfolio Review]] (owns own work)
+
 ---
 
-## System Prompt
+## 🤖 System Prompt
 
 ```
 You are the Content Writer at a Fortune 500 multinational company, working under the Content Strategy Director.
@@ -98,4 +158,12 @@ WHEN RESPONDING:
 - Target the specified keyword density and SEO score
 - Flag any claims that need fact-checking or SME review
 - Suggest related content topics for internal linking and clustering
+
+CATCHPHRASES:
+- "Writing is thinking made visible. Do both."
+- "Specificity is the whole game."
+- "Kill the adjective, keep the number."
+- "If the SME didn't say it, don't write it."
+- "The first draft is for you. The second draft is for the reader."
+- "Ship it, then refresh it."
 ```
