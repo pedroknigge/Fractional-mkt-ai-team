@@ -1,98 +1,165 @@
 # Glossary
 
-> Key marketing terms and internal language used across the team.
+> [!QUOTE] **The Lexicon**
+> Shared language is shared leverage. When we use the same words, we solve the same problems faster.
+
+**Jump:** [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [I](#i) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [W](#w)
 
 ---
 
 ## A
-- **ABM** — Account-Based Marketing. Targeting specific high-value accounts with personalized campaigns. See [[Paid-Media-Manager]], [[Product-Marketing-Manager]]
-- **AIDA** — Attention, Interest, Desire, Action. Classic marketing funnel framework
-- **Attribution** — Assigning credit for conversions to marketing touchpoints. See [[Head-Analytics-Data]]
-- **AOV** — Average Order Value. Revenue per transaction
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| ABM | Account-Based Marketing. Targeting specific high-value accounts with personalized campaigns. | [[Paid-Media-Manager]], [[Product-Marketing-Manager]] |
+| AIDA | Attention, Interest, Desire, Action. Classic marketing funnel framework. | [[Senior-Copywriter]], [[Creative-Director]] |
+| Attribution | Assigning credit for conversions to marketing touchpoints. | [[Head-Analytics-Data]], [[Marketing-Data-Analyst]] |
+| AOV | Average Order Value. Revenue per transaction. | [[Email-Marketing-Manager]], [[Conversion-Rate-Optimizer]] |
 
 ## B
-- **BOFU** — Bottom of Funnel. Decision-stage content and campaigns
-- **Bounce Rate** — % of visitors who leave after viewing one page
-- **Brand Equity** — Perceived value of a brand in the market. See [[Brand-Manager]]
-- **Buyer Persona** — Semi-fictional representation of an ideal customer. See [[Product-Marketing-Manager]]
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| BOFU | Bottom of Funnel. Decision-stage content and campaigns. | [[Content-Strategy-Director]], [[Paid-Media-Manager]] |
+| Bounce Rate | % of visitors who leave after viewing one page. | [[Conversion-Rate-Optimizer]], [[SEO-SEM-Specialist]] |
+| Brand Equity | Perceived value of a brand in the market. | [[Brand-Manager]], [[VP-Brand-Strategy]] |
+| Buyer Persona | Semi-fictional representation of an ideal customer. | [[Product-Marketing-Manager]] |
 
 ## C
-- **CAC** — Customer Acquisition Cost. See [[KPIs#Acquisition]]
-- **CMS** — Content Management System (e.g., WordPress, Contentful)
-- **CPA** — Cost Per Acquisition. See [[KPIs#Acquisition]]
-- **CPL** — Cost Per Lead. See [[KPIs#Acquisition]]
-- **CPM** — Cost Per Mille. Cost per 1,000 impressions
-- **CRM** — Customer Relationship Management. See [[Tools#CRM & Automation]]
-- **CRO** — Conversion Rate Optimization. See [[Conversion-Rate-Optimizer]]
-- **CTA** — Call to Action. Button or link prompting user action
-- **CTR** — Click-Through Rate. See [[KPIs#Digital Performance]]
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| CAC | Customer Acquisition Cost. See [[KPIs#Acquisition]]. | [[CMO]], [[Head-Digital-Marketing]] |
+| CMS | Content Management System (e.g., WordPress, Contentful). | [[Content-Writer]], [[Content-Strategy-Director]] |
+| CPA | Cost Per Acquisition. See [[KPIs#Acquisition]]. | [[Paid-Media-Manager]] |
+| CPL | Cost Per Lead. See [[KPIs#Acquisition]]. | [[Paid-Media-Manager]] |
+| CPM | Cost Per Mille. Cost per 1,000 impressions. | [[Paid-Media-Manager]] |
+| CRM | Customer Relationship Management. See [[Tools#CRM & Automation]]. | [[Marketing-Ops-Manager]] |
+| CRO | Conversion Rate Optimization. | [[Conversion-Rate-Optimizer]] |
+| CTA | Call to Action. Button or link prompting user action. | [[Senior-Copywriter]], [[Conversion-Rate-Optimizer]] |
+| CTR | Click-Through Rate. See [[KPIs#Digital Performance]]. | [[Paid-Media-Manager]], [[Email-Marketing-Manager]] |
 
 ## D
-- **DAM** — Digital Asset Management. Central repository for brand assets
-- **DTC** — Direct to Consumer
-- **Drip Campaign** — Automated email sequence triggered by user behavior. See [[Email-Marketing-Manager]]
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| DACI | Driver · Approver · Contributor · Informed. Decision framework — see [[Decisions]]. | All VPs |
+| DAM | Digital Asset Management. Central repository for brand assets. | [[Brand-Manager]] |
+| DTC | Direct to Consumer. | [[Email-Marketing-Manager]] |
+| Drip Campaign | Automated email sequence triggered by user behavior. | [[Email-Marketing-Manager]] |
 
 ## E
-- **Earned Media** — Organic press coverage, social shares, reviews. See [[PR-Communications-Director]]
-- **Engagement Rate** — Interactions relative to audience size. See [[KPIs#Social Media]]
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| Earned Media | Organic press coverage, social shares, reviews. | [[PR-Communications-Director]] |
+| Engagement Rate | Interactions relative to audience size. See [[KPIs#Social Media]]. | [[Social-Media-Manager]] |
 
 ## F
-- **Funnel** — Customer journey stages: Awareness > Consideration > Decision > Retention
-- **First-Party Data** — Data collected directly from your audience
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| Funnel | Customer journey stages: Awareness > Consideration > Decision > Retention. | [[Content-Strategy-Director]], [[Product-Marketing-Manager]] |
+| First-Party Data | Data collected directly from your audience. | [[Head-Analytics-Data]] |
 
 ## G
-- **GA4** — Google Analytics 4. See [[Tools#Analytics & BI]]
-- **GTM** — Go-to-Market (strategy) or Google Tag Manager (tool)
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| GA4 | Google Analytics 4. See [[Tools#Analytics & BI]]. | [[Marketing-Data-Analyst]] |
+| GTM | Go-to-Market (strategy) or Google Tag Manager (tool). | [[Product-Marketing-Manager]], [[Marketing-Ops-Manager]] |
 
 ## I
-- **ICP** — Ideal Customer Profile. Company-level version of buyer persona
-- **Impressions** — Number of times content is displayed
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| ICP | Ideal Customer Profile. Company-level version of buyer persona. | [[Product-Marketing-Manager]] |
+| Impressions | Number of times content is displayed. | [[Paid-Media-Manager]] |
 
 ## K
-- **KPI** — Key Performance Indicator. See [[KPIs]]
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| KPI | Key Performance Indicator. See [[KPIs]]. | All |
 
 ## L
-- **LTV** — Lifetime Value. Total revenue expected from a customer over their lifecycle
-- **Lead Scoring** — Assigning value to leads based on behavior and demographics. See [[Marketing-Ops-Manager]]
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| LTV | Lifetime Value. Total revenue expected from a customer over their lifecycle. | [[Head-Analytics-Data]], [[CMO]] |
+| Lead Scoring | Assigning value to leads based on behavior and demographics. | [[Marketing-Ops-Manager]] |
 
 ## M
-- **MAP** — Marketing Automation Platform. See [[Tools#CRM & Automation]]
-- **MOFU** — Middle of Funnel. Consideration-stage content
-- **MQL** — Marketing Qualified Lead. See [[KPIs#Acquisition]]
-- **MRR** — Monthly Recurring Revenue
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| MAP | Marketing Automation Platform. See [[Tools#CRM & Automation]]. | [[Marketing-Ops-Manager]] |
+| MOFU | Middle of Funnel. Consideration-stage content. | [[Content-Strategy-Director]] |
+| MQL | Marketing Qualified Lead. See [[KPIs#Acquisition]]. | [[Head-Digital-Marketing]] |
+| MRR | Monthly Recurring Revenue. | [[CMO]] |
 
 ## N
-- **NPS** — Net Promoter Score. See [[KPIs#Brand]]
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| NPS | Net Promoter Score. See [[KPIs#Brand]]. | [[Product-Marketing-Manager]] |
 
 ## O
-- **OKR** — Objectives and Key Results
-- **Omnichannel** — Seamless customer experience across all channels
-- **Owned Media** — Channels you control (website, blog, email list, social profiles)
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| OKR | Objectives and Key Results. | [[CMO]], all VPs |
+| Omnichannel | Seamless customer experience across all channels. | [[Head-Digital-Marketing]] |
+| Owned Media | Channels you control (website, blog, email list, social profiles). | [[Content-Strategy-Director]] |
 
 ## P
-- **PPC** — Pay Per Click. See [[Paid-Media-Manager]]
-- **Paid Media** — Advertising channels where you pay for visibility
-- **Pipeline** — Revenue opportunities in progress
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| PPC | Pay Per Click. | [[Paid-Media-Manager]] |
+| Paid Media | Advertising channels where you pay for visibility. | [[Paid-Media-Manager]] |
+| Pipeline | Revenue opportunities in progress. | [[CMO]], [[VP-Growth-Performance]] |
 
 ## R
-- **ROAS** — Return on Ad Spend. See [[KPIs#Digital Performance]]
-- **ROI** — Return on Investment. See [[KPIs#Revenue & ROI]]
-- **Retargeting** — Showing ads to users who previously interacted with your brand
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| RACI | Responsible · Accountable · Consulted · Informed. Role clarity framework — see [[Workflows]]. | All |
+| ROAS | Return on Ad Spend. See [[KPIs#Digital Performance]]. | [[Paid-Media-Manager]] |
+| ROI | Return on Investment. See [[KPIs#Revenue & ROI]]. | [[CMO]] |
+| Retargeting | Showing ads to users who previously interacted with your brand. | [[Paid-Media-Manager]] |
 
 ## S
-- **SEM** — Search Engine Marketing. See [[SEO-SEM-Specialist]]
-- **SEO** — Search Engine Optimization. See [[SEO-SEM-Specialist]]
-- **SERP** — Search Engine Results Page
-- **SOV** — Share of Voice. See [[KPIs#Brand]]
-- **SQL** — Sales Qualified Lead. See [[KPIs#Acquisition]]
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| SEM | Search Engine Marketing. | [[SEO-SEM-Specialist]] |
+| SEO | Search Engine Optimization. | [[SEO-SEM-Specialist]] |
+| SERP | Search Engine Results Page. | [[SEO-SEM-Specialist]] |
+| SOV | Share of Voice. See [[KPIs#Brand]]. | [[PR-Communications-Director]] |
+| SQL | Sales Qualified Lead. See [[KPIs#Acquisition]]. | [[Head-Digital-Marketing]] |
 
 ## T
-- **TOFU** — Top of Funnel. Awareness-stage content and campaigns
-- **TAM** — Total Addressable Market
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| TOFU | Top of Funnel. Awareness-stage content and campaigns. | [[Content-Strategy-Director]] |
+| TAM | Total Addressable Market. | [[Product-Marketing-Manager]] |
 
 ## U
-- **UGC** — User-Generated Content. Content created by customers/fans
-- **UTM** — Urchin Tracking Module. URL parameters for campaign tracking
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| UGC | User-Generated Content. Content created by customers/fans. | [[Social-Media-Manager]], [[Community-Manager]] |
+| UTM | Urchin Tracking Module. URL parameters for campaign tracking. | [[Marketing-Ops-Manager]] |
 
 ## W
-- **Webinar** — Online seminar for lead generation or thought leadership. See [[Event-Field-Marketing-Manager]]
+
+| Term | Definition | Used By |
+|------|-----------|---------|
+| Webinar | Online seminar for lead generation or thought leadership. | [[Event-Field-Marketing-Manager]] |
+
+---
+
+> [!TIP] **Lexicon discipline**
+> If you invent a new term, add it here the same day — or the next person in the document will invent a synonym and the team will argue about a ghost.
